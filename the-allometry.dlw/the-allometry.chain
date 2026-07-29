@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1932
+slug  : the-allometry
+seal  : 12252d5c2a6f598f9f8cd6c9b03b86aa3e406f08467e58bbdc605d34a1428311
+prev  : 66a38e39c251daee1ffa1ad56a4f2879d0ee570845100a07217bc8aff8ac3ba9
+link  : 8dcd98af454c245ef29812aa9e9eaeb61a0608f535199f23f588798e93e2271c
+head  : 2893a850e7fa16bdd15795af206f08071dc5ee18ebd8a2d3df805a73bfd1226e
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
